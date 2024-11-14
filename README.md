@@ -23,3 +23,9 @@ Group members: Justin Cheung, Alexander Baron, Joel Collazo, Ricardo Guzman
   - Make a new empty folder and put the file path of that folder in the python program output file variable.
   - Run the program and it will resize all your photos and invert colors.
   - Submit the folder of data onto Github repo
+
+## How to Upload Folder of Dataset
+  - Clone repo onto local repository
+  - Move dataset into the Directory of local repo
+  - Add, commit, and push onto Github
+  - 
