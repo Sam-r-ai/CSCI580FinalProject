@@ -28,4 +28,4 @@ Group members: Justin Cheung, Alexander Baron, Joel Collazo, Ricardo Guzman
   - Clone repo onto local repository
   - Move dataset into the Directory of local repo
   - Add, commit, and push onto Github
-  - 
+
