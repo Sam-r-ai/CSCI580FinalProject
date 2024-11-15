@@ -4,7 +4,7 @@
 import os
 
 # Specify the directory path and digit label
-directory_path = r"C:\Users\username\Desktop\inputfile"  # Replace with the path to your images
+directory_path = r"/Users/alexander/Desktop/Numbers/9"  # Replace with the path to your images
 
 def rename_images(directory, digit_label):
     # Get all files in the directory

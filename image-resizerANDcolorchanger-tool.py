@@ -4,9 +4,9 @@
 import os
 from PIL import Image, ImageOps
 
-input_folder = r'C:\Users\User\Desktop\Justin-Dataset'
+input_folder = r'/Users/alexander/Desktop/Numbers'
 #makes a copy to output folder so that input folder remains as backup in case something goes wrong
-output_folder = r'C:\Users\User\Desktop\FinalizedData'
+output_folder = r'/Users/Alexander/Desktop/Alexander-Dataset'
 
 def resize_and_invert_images(input_folder, output_folder, size=(28, 28)):
     # Create the output folder if it doesn't exist
